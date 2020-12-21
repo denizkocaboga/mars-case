@@ -25,6 +25,7 @@ A squad of robotic rovers will explore a rectangular plateau on Mars. We need to
 7. The output for each rover should be its final co-ordinates and heading in position format.
 
 For example, expected output for the provided input is as follows.
+
 **Input**
 
 	- 5 5
@@ -34,6 +35,7 @@ For example, expected output for the provided input is as follows.
 	- MMRMMRMRRM
 
 **Output**
+
 	- 1 3 N
 	- 5 1 E
 
