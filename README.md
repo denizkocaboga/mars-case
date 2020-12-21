@@ -39,7 +39,7 @@ For example, expected output for the provided input is as follows.
 	- 1 3 N
 	- 5 1 E
 
-##### Technical Expectations:
+### Technical Expectations:
 1. Minimum %50-unit testing code coverage.
 2. GitHub repository for the assessment should be created.
 3. Coding should be done with frequent commits.
